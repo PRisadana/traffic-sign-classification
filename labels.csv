@@ -1,0 +1,57 @@
+ClassId,Name
+0,Batas Kecepatan (20km/h)
+1,Batas Kecepatan (30km/h)
+2,Batas Kecepatan (50km/h)
+3,Batas Kecepatan (60km/h)
+4,Batas Kecepatan (70km/h)
+5,Batas Kecepatan (80km/h)
+6,Akhir dari Batas Kecepatan (80km/h)
+7,Batas Kecepatan (100km/h)
+8,Batas Kecepatan (120km/h)
+9,Dilarang Menyalip
+10,Dilarang menyalip untuk kendaraan di atas 3.5 ton
+11,Hak Jalan di persimpangan berikutnya
+12,Jalan Prioritas
+13,Mebiarkan pengguna jalan lain lewat terlebih dahulu
+14,Berhenti
+15,Tidak boleh ada kendaraan
+16,Kendaaran di atas 3.5 dilarang
+17,Dilarang Masuk
+18,Perhatian Umum
+19,Belokan berbahaya ke kiri
+20,Belokan berbahaya ke kanan
+21,Belokan Ganda
+22,Jalan Bergelombangan
+23,Jalan Licin
+24,Jalan menyempit di sebelah kanan
+25,Pekerjaan Jalan
+26,Sinya Lalu Lintas
+27,Pejalan Kaki
+28,Penyebrangan Anak
+29,Penyebrangan Sepeda
+30,Hati hati terhadap salju/es
+31,Penyebrangan Hewan Liar
+32,Akhir dari semua batas menyalip dan batas kecepatan
+33,Belok kanan di depan
+34,Belok kiri di depan
+35,Maju depan
+36,Ke depan atau ke kanan
+37,ke depan dan ke kiri
+38,Tetap di kanan
+39,Tetap di kiri
+40,Wajib melewati bundaran
+41,Akhir dari tidak boleh menyalip
+42,Akhir dari tidak boleh menyalip untuk kendaraan di atas 3.5 ton
+43, Persimpangan
+44, Pengarah tikungan ke kanan
+45, Pengarah tikungan ke kiri
+46, Turunan
+47, Dilarang Parkir
+48, Mobil dan sepeda motor dilarang masuk
+49, Dilarang Klakson
+50, Sepeda Dilarang Masuk
+51, Dilarang Putar Balik
+52, Dilarang Parkir
+53, Jalur Pejalan Kaki
+54, Jalur Sepeda
+55, Jalur Penyebrangan
